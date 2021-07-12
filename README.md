@@ -25,7 +25,7 @@
 
 
 
-**(output) اسم الملف (txt) في البداية يقوم الشخص بالتحدث و يقوم الكود بتحويل الصوت الى نص ثم بعد انتهاء الحديث يقوم بحفظ ما قاله الشخص في ملف**
+**(output)اسم الملف(txt)في البداية يقوم الشخص بالتحدث و يقوم الكود بتحويل الصوت الى نص ثم بعد انتهاء الحديث يقوم بحفظ ما قاله الشخص في ملف**
 
 *In the beginning, the person speaks and the code converts the audio into text, and then after the end of the conversation, it saves what the person said in a file (txt) file name (output)*
 
