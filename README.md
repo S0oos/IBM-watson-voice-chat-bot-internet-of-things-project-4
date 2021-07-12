@@ -21,8 +21,11 @@
 **(txt) صور لتوضيح كود حفظ النص في ملف**
 
 ![](https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_4.png)
+****
 ![](https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_3.png)
+****
 ![](https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_2.png)
+****
 ![](https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_1.png)
 
 
