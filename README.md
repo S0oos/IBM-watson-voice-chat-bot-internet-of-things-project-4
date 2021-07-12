@@ -30,7 +30,7 @@
 
 ## 2.من نص إلى خطاب - From Text to Speech
 
-**(Jupyter ) ولكن هنا قمت بإستعمال لسهولة عمل هذا الجزء عليه (Python) و لغة (IBM Watson Text to Speech) قمت بإستعمال**
+**(Jupyter) ولكن هنا قمت بإستعمال لسهولة عمل هذا الجزء عليه (Python) و لغة (IBM Watson Text to Speech) قمت بإستعمال**
 
 
 
