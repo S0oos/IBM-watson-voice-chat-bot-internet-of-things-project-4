@@ -29,7 +29,7 @@
 **In the beginning, the person speaks and the code converts the audio into text, and then after the end of the conversation, it saves what the person said in a file (txt) file name (output)**
 
 
-**ثم التحدث لمدة 10 ثواني و تستطيع تعديلها لأكثر او اقل (python transcribe.py -t 10) تقوم بكتابة **
+**ثم التحدث لمدة 10 ثواني و تستطيع تعديلها لأكثر او اقل (python transcribe.py -t 10) تقوم بكتابة**
 
 **You type(python transcribe.py -t 10) and then speak for 10 seconds and you can edit it for more or less**
 
