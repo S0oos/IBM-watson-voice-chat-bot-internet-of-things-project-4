@@ -28,6 +28,11 @@
 ****
 ![](https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_1.png)
 
+## 2.من نص إلى خطاب - From Text to Speech
+
+**(Visual Studio Code) ولكن هنا قمت بإستعمال لسهولة عمل هذا الجزء عليه (Python) و لغة (IBM Watson Text to Speech) قمت بإستعمال**
+
+
 
 
 
