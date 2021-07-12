@@ -16,6 +16,11 @@
 
 **(Visual Studio Code) و (Python) و لغة (IBM Watson Speech to Text) قمت بإستعمال**
 
+**(txt) في البداية يقوم الشخص بالتحدث و يقوم الكود بتحويل الصوت الى نص ثم بعد انتهاء الحديث يقوم بحفظ ما قاله الشخص في ملف**
+
+**(txt) صور لتوضيح كود حفظ النص في ملف**
+
+https://github.com/S0oos/IBM-watson-voice-chat-bot-internet-of-things-project-4/blob/main/Images/Screenshot_1.png
 
 
 
