@@ -55,7 +55,7 @@
 
 ## 2.من نص إلى خطاب - From Text to Speech
 
-**لسهولة عمل هذا الجزء عليه (Jupyter python) ولكن هنا قمت بإستعمال (Python) و لغة (IBM Watson Text to Speech) قمت بإستعمال**
+**لسهولة عمل هذا الجزء عليه(Jupyter python)ولكن هنا قمت بإستعمال(Python)ولغة(IBM Watson Text to Speech)قمت بإستعمال**
 
 *I used (IBM Watson Text to Speech) and (Python) but here I used (Jupyter python) to make this part easier to work on*
 
