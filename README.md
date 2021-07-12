@@ -7,7 +7,7 @@
 
 **(txt) اولا:التحدث الى الروبوت والتحويل من صوت الى نص وحفظ النص في ملف**
 
-**First: Talk to the robot and convert from voice to text and save the text in a file (txt)**
+*First: Talk to the robot and convert from voice to text and save the text in a file (txt)*
 
 
 **(mp3)ثانيا:الرد من الروبوت بالتحويل من نص الى صوت وحفظ الصوت ك**
